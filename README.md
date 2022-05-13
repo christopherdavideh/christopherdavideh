@@ -6,7 +6,7 @@ Software Developer
 
 * 🌍  Quito, Ecuador
 * 🖥️  See my portfolio at [christopherdavideh.com](https://christopherdavideh.com)
-* ✉️  You can contact me at [christopher.erazo.herrera@gmail.com](mailto:christopher.erazo.herrera@gmail.com)
+* ✉️  You can contact me at [mail](mailto:christopher.erazo.herrera@gmail.com)
 * 🧠  I'm learning on [Platzi.com](https://platzi.com)
 
 <a href="https://www.twitter.com/christopdavideh" target="_blank" rel="noreferrer"><img
