@@ -3,6 +3,9 @@ Hi 👋 My name is Christopher David Erazo Herrera
 
 Software Developer
 ------------------
+Software Developer with more than a year of experience in Web Application Development. I have participated in the development of mobile applications with Xamarin.Forms and some web applications using technologies such as PHP, Laravel, ASP.NET Framework and Core with MVC. Prior to this, I gained experience in the area of Customer Service and Sales where you can develop skills such as working under pressure, teamwork, good attitude and proactivity. 
+
+I am self-taught and passionate about software development technologies who likes to keep discovering new things. My purpose is to continue growing professionally and gain experience within a great Software Development Startup.
 
 * 🌍  Quito, Ecuador
 * 🖥️  See my portfolio at [christopherdavideh.com](https://christopherdavideh.com)
