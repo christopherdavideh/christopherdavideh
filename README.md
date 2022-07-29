@@ -1,4 +1,4 @@
-Hi 👋 My name is Christopher David Erazo Herrera
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christopher David Erazo Herrera
 ================================================
 
 Software Developer
@@ -13,9 +13,9 @@ I am self-taught and passionate about software development technologies who like
 * 🧠  I'm learning on [Platzi.com](https://platzi.com)
 
 <a href="https://www.twitter.com/christopdavideh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/christopdavideh?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/christopdavideh?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
 /></a><a href="https://www.github.com/christopherdavideh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/christopherdavideh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/christopherdavideh?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
 ### Skills
 
@@ -46,12 +46,29 @@ src="https://img.shields.io/github/followers/christopherdavideh?logo=github&styl
 
 <p align="left"> <a href="https://www.facebook.com/christopherdavideh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/christopherdavideh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/christopherdavideh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/christopherdavideh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/christopdavideh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+
 ### Badges
+<b>My GitHub Stats</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b align="right">Top Repositories</b>
+<div width="100%" align="center">
+<a href="https://github.com/christopherdavideh" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopherdavideh&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/christopherdavideh"><img src="https://github-readme-stats.vercel.app/api?username=christopherdavideh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="christopherdavideh's GitHub stats" /></a>
 
-<a href="http://www.github.com/christopherdavideh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=christopherdavideh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div width="100%" align="center"><div width="100%" align="center">
+<a href="https://github.com/christopherdavideh/RecapMovies" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=christopherdavideh&repo=RecapMovies&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
+<a href="https://christopherdavideh.github.io/RecapMovies/">Demo</a>
+<br /><br /><br /><br /><br /><br />
+<a href="https://github.com/christopherdavideh/todo-react-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=christopherdavideh&repo=todo-react-app&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
+<br /><br /><br /><br /><br /><br />
+<a href="https://github.com/christopherdavideh/MobileFirst-Layout" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=christopherdavideh&repo=MobileFirst-Layout&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
+<br /><br /><br /><br /><br /><br />
+<a href="https://github.com/christopherdavideh/laverix" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=christopherdavideh&repo=laverix&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
+<br /><br /><br /><br /><br /><br />
+<a href="https://github.com/christopherdavideh/PomodoroApp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=christopherdavideh&repo=PomodoroApp&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
+</div><br /><br /><br /><br />
+<br /><br /><br /><br /><br />
 
-<a href="http://www.github.com/christopherdavideh"><img src="https://activity-graph.herokuapp.com/graph?username=christopherdavideh&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<div width="100%" align="center"><a href="http://www.github.com/christopherdavideh" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=christopherdavideh&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="christopherdavideh's GitHub stats" /></a><a href="http://www.github.com/christopherdavideh" align="right"><img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=christopherdavideh&stroke=ffffff&background=000000&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></div>
+<br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br />
+<a href="http://www.github.com/christopherdavideh"><img src="https://activity-graph.herokuapp.com/graph?username=christopherdavideh&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
