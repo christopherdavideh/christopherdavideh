@@ -65,7 +65,7 @@ src="https://img.shields.io/github/followers/christopherdavideh?logo=github&styl
 <a href="https://github.com/christopherdavideh/MobileFirst-Layout" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=christopherdavideh&repo=MobileFirst-Layout&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
 <a href="https://christopherdavideh.github.io/MobileFirst-Layout/" target="_blank" rel="noreferrer" aling="right"><img aling="right" src="https://img.shields.io/badge/DEMO-brightgreen"/></a>
 <br /><br /><br /><br /><br /><br />
-<a href="https://github.com/christopherdavideh/laverix" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=christopherdavideh&repo=laverix&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
+<a href="https://github.com/christopherdavideh/laverix" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=christopherdavideh&repo=Laverix&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
 <br /><br /><br /><br /><br /><br />
 <a href="https://github.com/christopherdavideh/PomodoroApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=christopherdavideh&repo=PomodoroApp&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
 </div>
