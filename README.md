@@ -48,23 +48,27 @@ src="https://img.shields.io/github/followers/christopherdavideh?logo=github&styl
 
 
 ### Badges
-<b>My GitHub Stats</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b align="right">Top Repositories</b>
+<b>My GitHub Stats</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b align="right">Top Repositories</b>
 <div width="100%" align="center">
 <a href="https://github.com/christopherdavideh" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopherdavideh&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
-<div width="100%" align="center"><div width="100%" align="center">
-<a href="https://github.com/christopherdavideh/RecapMovies" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=christopherdavideh&repo=RecapMovies&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
-<a href="https://christopherdavideh.github.io/RecapMovies/">Demo</a>
+<div width="100%" align="center">
+<a href="https://github.com/christopherdavideh/RecapMovies" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=christopherdavideh&repo=RecapMovies&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
+<a href="https://christopherdavideh.github.io/RecapMovies/" target="_blank" rel="noreferrer" aling="right"><img aling="right" src="https://img.shields.io/badge/DEMO-brightgreen"/></a>
 <br /><br /><br /><br /><br /><br />
-<a href="https://github.com/christopherdavideh/todo-react-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=christopherdavideh&repo=todo-react-app&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
+
+<a href="https://github.com/christopherdavideh/todo-react-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=christopherdavideh&repo=todo-react-app&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
+<a href="https://christopherdavideh.github.io/todo-react-app/" target="_blank" rel="noreferrer" aling="right"><img aling="right" src="https://img.shields.io/badge/DEMO-brightgreen"/></a>
 <br /><br /><br /><br /><br /><br />
-<a href="https://github.com/christopherdavideh/MobileFirst-Layout" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=christopherdavideh&repo=MobileFirst-Layout&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
+<a href="https://github.com/christopherdavideh/MobileFirst-Layout" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=christopherdavideh&repo=MobileFirst-Layout&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
+<a href="https://christopherdavideh.github.io/MobileFirst-Layout/" target="_blank" rel="noreferrer" aling="right"><img aling="right" src="https://img.shields.io/badge/DEMO-brightgreen"/></a>
 <br /><br /><br /><br /><br /><br />
-<a href="https://github.com/christopherdavideh/laverix" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=christopherdavideh&repo=laverix&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
+<a href="https://github.com/christopherdavideh/laverix" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=christopherdavideh&repo=laverix&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
 <br /><br /><br /><br /><br /><br />
-<a href="https://github.com/christopherdavideh/PomodoroApp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=christopherdavideh&repo=PomodoroApp&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
+<a href="https://github.com/christopherdavideh/PomodoroApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=christopherdavideh&repo=PomodoroApp&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
+</div>
 </div><br /><br /><br /><br />
 <br /><br /><br /><br /><br />
 
