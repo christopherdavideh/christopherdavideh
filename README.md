@@ -107,6 +107,3 @@ src="https://img.shields.io/github/followers/christopherdavideh?logo=github&styl
     </td>
   </tr>
 </table>
-
-
-<a href="http://www.github.com/christopherdavideh"><img src="https://activity-graph.herokuapp.com/graph?username=christopherdavideh&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
